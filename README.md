@@ -1,4 +1,4 @@
-# 🌱 theyogender-Weed-Detection-using-YOLOv11
+# 🌱Weed-Detection-using-YOLOv11
 
 This project focuses on detecting **Rapistrum weed** at various growth stages in **wheat crops** using the **YOLOv11** object detection model. The dataset is custom-annotated and categorized into **4 distinct growth stages** of the weed, enabling fine-grained detection and analysis.
 
